@@ -4,5 +4,16 @@ p {
     background-color: aqua;
 }
 /*selektor ID*/
-#drugi-paragraf{ background-color: yellow;
+#drugi-paragraf {
+    background-color: yellow;
+}
+.akademia {
+    background-color: aquamarine;
+}
+
+#selektor-potomka p {
+    background-color: gold;
+}
+#drugi-potomek ~ p {
+    background-color: lime;
 }
