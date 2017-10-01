@@ -1,4 +1,8 @@
 /*selektor zacznika*/
+
 p {
-  background-color: aqua;
+    background-color: aqua;
+}
+/*selektor ID*/
+#drugi-paragraf{ background-color: yellow;
 }
